@@ -7,7 +7,7 @@
     "displayName": "Kategorie"
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "attributes": {
     "nazev": { "type": "string", "required": true },
